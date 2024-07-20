@@ -1,6 +1,6 @@
 # Descrição do Projeto
 
-O projeto envolve a coleta de dados do SUS, armazenamento desses dados em um banco de dados PostgreSQL, e o processamento e análise dos dados em um Data Lake usando Databricks. O fluxo inclui a coleta automatizada, transferência para o Data Lake, processamento com PySpark e análise com python e SQL
+O projeto envolve a criação de um datalake para um fictício gigante do e-commerce do Brasil relacionado a video-games, que vai desde a criação dos dados fictícios, armazenamento desses dados em um banco de dados PostgreSQL, e o processamento e análise dos dados em um Data Lake usando Databricks. O fluxo inclui a coleta automatizada, transferência para o Data Lake, processamento com PySpark e análise com python e SQL
 
 ## Tecnologias que pretendo utilizar nesse projeto
 
