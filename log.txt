@@ -1,0 +1,4063 @@
+Dados fictícios gerados e salvos.
+Dados fictícios gerados e salvos.
+Dados fictícios gerados e salvos as {datetime.now()}
+Dados fictícios gerados e salvos as 2024-07-20 07:31:02.167340
+Dados fictícios gerados e salvos as 2024-07-20 07:32:01.620661
+Dados fictícios gerados e salvos as 2024-07-20 07:33:02.097210
+Dados fictícios gerados e salvos as 2024-07-20 07:34:01.626460
+Dados fictícios gerados e salvos as 2024-07-20 07:35:02.114693
+Dados fictícios gerados e salvos as 2024-07-20 07:36:01.637769
+Dados fictícios gerados e salvos as 2024-07-20 07:37:02.104041
+Dados fictícios gerados e salvos as 2024-07-20 07:38:01.560042
+Dados fictícios gerados e salvos as 2024-07-20 07:39:02.016980
+Dados fictícios gerados e salvos as 2024-07-20 07:40:01.491757
+Dados fictícios gerados e salvos as 2024-07-20 07:41:01.953485
+Dados fictícios gerados e salvos as 2024-07-20 07:42:01.411622
+Dados fictícios gerados e salvos as 2024-07-20 07:43:01.873047
+Dados fictícios gerados e salvos as 2024-07-20 07:44:02.431673
+Dados fictícios gerados e salvos as 2024-07-20 07:45:01.995144
+Dados fictícios gerados e salvos as 2024-07-20 07:46:01.455465
+Dados fictícios gerados e salvos as 2024-07-20 07:47:01.915375
+Novos clientes: 30
+Novos produtos: 1
+Dados fictícios gerados e salvos as 2024-07-20 07:48:02.373053
+Novos clientes: 16
+Novos produtos: 2
+Dados fictícios gerados e salvos as 2024-07-20 07:49:01.827699
+Novos clientes: 34
+Novos produtos: 2
+Dados fictícios gerados e salvos as 2024-07-20 07:50:02.304829
+Novos clientes: 13
+Novos produtos: 1
+Dados fictícios gerados e salvos as 2024-07-20 07:51:01.772896
+Novos clientes: 29
+Novos produtos: 2
+Dados fictícios gerados e salvos as 2024-07-20 07:52:02.243543
+Novos clientes: 26
+Novos produtos: 4
+Dados fictícios gerados e salvos as 2024-07-20 07:53:01.734800
+Numero de clientes antes: 4948
+Numero de produtos antes: 212
+Novos clientes: 27
+Novos produtos: 2
+Novo numero de clientes: 4975
+Dados fictícios gerados e salvos as 2024-07-20 07:54:02.224805
+Numero de clientes antes: 4975
+Numero de produtos antes: 214
+Novos clientes: 19
+Novos produtos: 3
+Novo numero de clientes: 4994
+Dados fictícios gerados e salvos as 2024-07-20 07:55:01.705077
+Numero de clientes antes: 4994
+Numero de produtos antes: 217
+Novos clientes: 26
+Novos produtos: 1
+Novo numero de clientes: 5020
+Dados fictícios gerados e salvos as 2024-07-20 07:56:02.166323
+Numero de clientes antes: 5020
+Numero de produtos antes: 218
+Novos clientes: 28
+Novos produtos: 1
+Novo numero de clientes: 5048
+Dados fictícios gerados e salvos as 2024-07-20 07:57:01.621302
+Numero de clientes antes: 5048
+Numero de produtos antes: 219
+Novos clientes: 17
+Novos produtos: 2
+Novo numero de clientes: 5065
+Dados fictícios gerados e salvos as 2024-07-20 07:58:02.072922
+Numero de clientes antes: 5065
+Numero de produtos antes: 221
+Novos clientes: 37
+Novos produtos: 3
+Novo numero de clientes: 5102
+Dados fictícios gerados e salvos as 2024-07-20 07:59:01.529957
+Numero de clientes antes: 5102
+Numero de produtos antes: 224
+Novos clientes: 31
+Novos produtos: 2
+Novo numero de clientes: 5133
+Dados fictícios gerados e salvos as 2024-07-20 08:00:01.995127
+Numero de clientes antes: 5133
+Numero de produtos antes: 226
+Novos clientes: 14
+Novos produtos: 3
+Novo numero de clientes: 5147
+Dados fictícios gerados e salvos as 2024-07-20 08:01:01.453323
+Numero de clientes antes: 5147
+Numero de produtos antes: 229
+Novos clientes: 38
+Novos produtos: 1
+Novo numero de clientes: 5185
+Dados fictícios gerados e salvos as 2024-07-20 08:02:01.912184
+Numero de clientes antes: 5185
+Numero de produtos antes: 230
+Novos clientes: 32
+Novos produtos: 4
+Novo numero de clientes: 5217
+Dados fictícios gerados e salvos as 2024-07-20 08:03:02.370157
+Numero de clientes antes: 5217
+Numero de produtos antes: 234
+Novos clientes: 20
+Novos produtos: 2
+Novo numero de clientes: 5237
+Dados fictícios gerados e salvos as 2024-07-20 08:04:01.851868
+Numero de clientes antes: 5237
+Numero de produtos antes: 236
+Novos clientes: 28
+Novos produtos: 3
+Novo numero de clientes: 5265
+Dados fictícios gerados e salvos as 2024-07-20 08:05:02.328161
+Numero de clientes antes: 5265
+Numero de produtos antes: 239
+Novos clientes: 21
+Novos produtos: 2
+Novo numero de clientes: 5286
+Dados fictícios gerados e salvos as 2024-07-20 08:06:01.801394
+Numero de clientes antes: 5286
+Numero de produtos antes: 241
+Novos clientes: 10
+Novos produtos: 4
+Novo numero de clientes: 5296
+Dados fictícios gerados e salvos as 2024-07-20 08:07:02.281893
+Numero de clientes antes: 5296
+Numero de produtos antes: 245
+Novos clientes: 25
+Novos produtos: 2
+Novo numero de clientes: 5321
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:10:01.937804
+Numero de clientes antes: 58947
+Numero de produtos antes: 9771
+Novos clientes: 34
+Novos produtos: 1
+Novo numero de clientes: 58981
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:10:54.958535
+Numero de clientes antes: 58981
+Numero de produtos antes: 9772
+Novos clientes: 34
+Novos produtos: 4
+Novo numero de clientes: 59015
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:11:01.832760
+Numero de clientes antes: 59015
+Numero de produtos antes: 9776
+Novos clientes: 34
+Novos produtos: 4
+Novo numero de clientes: 59049
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:12:02.796002
+Numero de clientes antes: 59049
+Numero de produtos antes: 9780
+Novos clientes: 35
+Novos produtos: 4
+Novo numero de clientes: 59084
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:13:02.261934
+Numero de clientes antes: 0
+Numero de produtos antes: 0
+Novos clientes: 11
+Novos produtos: 3
+Novo numero de clientes: 11
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:14:02.591295
+Numero de clientes antes: 11
+Numero de produtos antes: 3
+Novos clientes: 27053
+Novos produtos: 358
+Novo numero de clientes: 27064
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:15:02.162592
+Numero de clientes antes: 27064
+Numero de produtos antes: 361
+Novos clientes: 35
+Novos produtos: 4
+Novo numero de clientes: 27099
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:16:01.793326
+Numero de clientes antes: 27099
+Numero de produtos antes: 365
+Novos clientes: 36
+Novos produtos: 1
+Novo numero de clientes: 27135
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:17:02.339680
+Numero de clientes antes: 27135
+Numero de produtos antes: 366
+Novos clientes: 29
+Novos produtos: 3
+Novo numero de clientes: 27164
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:18:01.899726
+Numero de clientes antes: 27164
+Numero de produtos antes: 369
+Novos clientes: 36
+Novos produtos: 4
+Novo numero de clientes: 27200
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:19:02.456391
+Numero de clientes antes: 27200
+Numero de produtos antes: 373
+Novos clientes: 22
+Novos produtos: 3
+Novo numero de clientes: 27222
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:20:01.994692
+Numero de clientes antes: 27222
+Numero de produtos antes: 376
+Novos clientes: 20
+Novos produtos: 4
+Novo numero de clientes: 27242
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:21:01.526836
+Numero de clientes antes: 27242
+Numero de produtos antes: 380
+Novos clientes: 14
+Novos produtos: 4
+Novo numero de clientes: 27256
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:22:02.057558
+Numero de clientes antes: 27256
+Numero de produtos antes: 384
+Novos clientes: 20
+Novos produtos: 2
+Novo numero de clientes: 27276
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:23:01.575456
+Numero de clientes antes: 27276
+Numero de produtos antes: 386
+Novos clientes: 15
+Novos produtos: 1
+Novo numero de clientes: 27291
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:24:02.105207
+Numero de clientes antes: 27291
+Numero de produtos antes: 387
+Novos clientes: 39
+Novos produtos: 3
+Novo numero de clientes: 27330
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:25:01.617814
+Numero de clientes antes: 27330
+Numero de produtos antes: 390
+Novos clientes: 34
+Novos produtos: 2
+Novo numero de clientes: 27364
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:26:02.132933
+Numero de clientes antes: 27364
+Numero de produtos antes: 392
+Novos clientes: 20
+Novos produtos: 4
+Novo numero de clientes: 27384
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:27:01.666909
+Numero de clientes antes: 27384
+Numero de produtos antes: 396
+Novos clientes: 24
+Novos produtos: 4
+Novo numero de clientes: 27408
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:28:02.182523
+Numero de clientes antes: 27408
+Numero de produtos antes: 400
+Novos clientes: 24
+Novos produtos: 3
+Novo numero de clientes: 27432
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:29:01.746883
+Numero de clientes antes: 27432
+Numero de produtos antes: 403
+Novos clientes: 34
+Novos produtos: 2
+Novo numero de clientes: 27466
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:30:02.293822
+Numero de clientes antes: 27466
+Numero de produtos antes: 405
+Novos clientes: 32
+Novos produtos: 4
+Novo numero de clientes: 27498
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:31:01.844517
+Numero de clientes antes: 27498
+Numero de produtos antes: 409
+Novos clientes: 12
+Novos produtos: 2
+Novo numero de clientes: 27510
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:32:02.387273
+Numero de clientes antes: 27510
+Numero de produtos antes: 411
+Novos clientes: 20
+Novos produtos: 1
+Novo numero de clientes: 27530
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:33:02.006864
+Numero de clientes antes: 27530
+Numero de produtos antes: 412
+Novos clientes: 39
+Novos produtos: 2
+Novo numero de clientes: 27569
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:34:01.643311
+Numero de clientes antes: 27569
+Numero de produtos antes: 414
+Novos clientes: 36
+Novos produtos: 1
+Novo numero de clientes: 27605
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:35:02.185235
+Numero de clientes antes: 27605
+Numero de produtos antes: 415
+Novos clientes: 32
+Novos produtos: 4
+Novo numero de clientes: 27637
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:36:01.734108
+Numero de clientes antes: 27637
+Numero de produtos antes: 419
+Novos clientes: 25
+Novos produtos: 4
+Novo numero de clientes: 27662
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:37:02.299918
+Numero de clientes antes: 27662
+Numero de produtos antes: 423
+Novos clientes: 34
+Novos produtos: 3
+Novo numero de clientes: 27696
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:38:01.866728
+Numero de clientes antes: 27696
+Numero de produtos antes: 426
+Novos clientes: 14
+Novos produtos: 2
+Novo numero de clientes: 27710
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:39:02.444665
+Numero de clientes antes: 27710
+Numero de produtos antes: 428
+Novos clientes: 31
+Novos produtos: 3
+Novo numero de clientes: 27741
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:40:01.989653
+Numero de clientes antes: 27741
+Numero de produtos antes: 431
+Novos clientes: 23
+Novos produtos: 1
+Novo numero de clientes: 27764
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:41:01.669710
+Numero de clientes antes: 27764
+Numero de produtos antes: 432
+Novos clientes: 15
+Novos produtos: 1
+Novo numero de clientes: 27779
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:42:02.297535
+Numero de clientes antes: 27779
+Numero de produtos antes: 433
+Novos clientes: 24
+Novos produtos: 2
+Novo numero de clientes: 27803
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:43:01.877464
+Numero de clientes antes: 27803
+Numero de produtos antes: 435
+Novos clientes: 25
+Novos produtos: 4
+Novo numero de clientes: 27828
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:44:02.520666
+Numero de clientes antes: 27828
+Numero de produtos antes: 439
+Novos clientes: 25
+Novos produtos: 2
+Novo numero de clientes: 27853
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:45:02.163542
+Numero de clientes antes: 27853
+Numero de produtos antes: 441
+Novos clientes: 37
+Novos produtos: 1
+Novo numero de clientes: 27890
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:46:01.747942
+Numero de clientes antes: 27890
+Numero de produtos antes: 442
+Novos clientes: 13
+Novos produtos: 3
+Novo numero de clientes: 27903
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:47:02.376202
+Numero de clientes antes: 27903
+Numero de produtos antes: 445
+Novos clientes: 14
+Novos produtos: 1
+Novo numero de clientes: 27917
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:48:01.933321
+Numero de clientes antes: 27917
+Numero de produtos antes: 446
+Novos clientes: 24
+Novos produtos: 2
+Novo numero de clientes: 27941
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:49:01.463918
+Numero de clientes antes: 27941
+Numero de produtos antes: 448
+Novos clientes: 12
+Novos produtos: 2
+Novo numero de clientes: 27953
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:50:02.064894
+Numero de clientes antes: 27953
+Numero de produtos antes: 450
+Novos clientes: 19
+Novos produtos: 2
+Novo numero de clientes: 27972
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:51:01.657408
+Numero de clientes antes: 27972
+Numero de produtos antes: 452
+Novos clientes: 30
+Novos produtos: 4
+Novo numero de clientes: 28002
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:52:02.349808
+Numero de clientes antes: 28002
+Numero de produtos antes: 456
+Novos clientes: 34
+Novos produtos: 2
+Novo numero de clientes: 28036
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:53:01.927465
+Numero de clientes antes: 28036
+Numero de produtos antes: 458
+Novos clientes: 34
+Novos produtos: 4
+Novo numero de clientes: 28070
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:54:02.491026
+Numero de clientes antes: 28070
+Numero de produtos antes: 462
+Novos clientes: 26
+Novos produtos: 4
+Novo numero de clientes: 28096
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:55:02.146989
+Numero de clientes antes: 28096
+Numero de produtos antes: 466
+Novos clientes: 17
+Novos produtos: 3
+Novo numero de clientes: 28113
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:56:01.728865
+Numero de clientes antes: 28113
+Numero de produtos antes: 469
+Novos clientes: 29
+Novos produtos: 1
+Novo numero de clientes: 28142
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:57:02.301504
+Numero de clientes antes: 28142
+Numero de produtos antes: 470
+Novos clientes: 11
+Novos produtos: 2
+Novo numero de clientes: 28153
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:58:01.889747
+Numero de clientes antes: 28153
+Numero de produtos antes: 472
+Novos clientes: 31
+Novos produtos: 3
+Novo numero de clientes: 28184
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 08:59:02.440306
+Numero de clientes antes: 28184
+Numero de produtos antes: 475
+Novos clientes: 13
+Novos produtos: 4
+Novo numero de clientes: 28197
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:00:02.013884
+Numero de clientes antes: 28197
+Numero de produtos antes: 479
+Novos clientes: 13
+Novos produtos: 4
+Novo numero de clientes: 28210
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:01:01.567055
+Numero de clientes antes: 28210
+Numero de produtos antes: 483
+Novos clientes: 36
+Novos produtos: 2
+Novo numero de clientes: 28246
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:02:02.267722
+Numero de clientes antes: 28246
+Numero de produtos antes: 485
+Novos clientes: 32
+Novos produtos: 2
+Novo numero de clientes: 28278
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:03:01.874847
+Numero de clientes antes: 28278
+Numero de produtos antes: 487
+Novos clientes: 17
+Novos produtos: 3
+Novo numero de clientes: 28295
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:04:02.521647
+Numero de clientes antes: 28295
+Numero de produtos antes: 490
+Novos clientes: 27
+Novos produtos: 2
+Novo numero de clientes: 28322
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:05:02.164841
+Numero de clientes antes: 28322
+Numero de produtos antes: 492
+Novos clientes: 24
+Novos produtos: 4
+Novo numero de clientes: 28346
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:06:01.730182
+Numero de clientes antes: 28346
+Numero de produtos antes: 496
+Novos clientes: 31
+Novos produtos: 3
+Novo numero de clientes: 28377
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:07:02.286781
+Numero de clientes antes: 28377
+Numero de produtos antes: 499
+Novos clientes: 14
+Novos produtos: 1
+Novo numero de clientes: 28391
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:08:01.862456
+Numero de clientes antes: 28391
+Numero de produtos antes: 500
+Novos clientes: 21
+Novos produtos: 1
+Novo numero de clientes: 28412
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:09:02.422850
+Numero de clientes antes: 28412
+Numero de produtos antes: 501
+Novos clientes: 18
+Novos produtos: 3
+Novo numero de clientes: 28430
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:10:02.057539
+Numero de clientes antes: 28430
+Numero de produtos antes: 504
+Novos clientes: 11
+Novos produtos: 2
+Novo numero de clientes: 28441
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:11:01.648453
+Numero de clientes antes: 28441
+Numero de produtos antes: 506
+Novos clientes: 26
+Novos produtos: 4
+Novo numero de clientes: 28467
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:12:02.204642
+Numero de clientes antes: 28467
+Numero de produtos antes: 510
+Novos clientes: 31
+Novos produtos: 3
+Novo numero de clientes: 28498
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:13:01.767700
+Numero de clientes antes: 28498
+Numero de produtos antes: 513
+Novos clientes: 30
+Novos produtos: 1
+Novo numero de clientes: 28528
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:14:02.337842
+Numero de clientes antes: 28528
+Numero de produtos antes: 514
+Novos clientes: 9
+Novos produtos: 1
+Novo numero de clientes: 28537
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:15:01.961691
+Numero de clientes antes: 28537
+Numero de produtos antes: 515
+Novos clientes: 13
+Novos produtos: 1
+Novo numero de clientes: 28550
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:16:01.598428
+Numero de clientes antes: 28550
+Numero de produtos antes: 516
+Novos clientes: 7
+Novos produtos: 4
+Novo numero de clientes: 28557
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:17:02.291514
+Numero de clientes antes: 28557
+Numero de produtos antes: 520
+Novos clientes: 7
+Novos produtos: 4
+Novo numero de clientes: 28564
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:18:02.093223
+Numero de clientes antes: 28564
+Numero de produtos antes: 524
+Novos clientes: 2
+Novos produtos: 3
+Novo numero de clientes: 28566
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:19:01.764024
+Numero de clientes antes: 28566
+Numero de produtos antes: 527
+Novos clientes: 16
+Novos produtos: 3
+Novo numero de clientes: 28582
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:20:02.395128
+Numero de clientes antes: 28582
+Numero de produtos antes: 530
+Novos clientes: 12
+Novos produtos: 4
+Novo numero de clientes: 28594
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:21:02.031556
+Numero de clientes antes: 28594
+Numero de produtos antes: 534
+Novos clientes: 17
+Novos produtos: 1
+Novo numero de clientes: 28611
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:22:01.602784
+Numero de clientes antes: 28611
+Numero de produtos antes: 535
+Novos clientes: 14
+Novos produtos: 3
+Novo numero de clientes: 28625
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:23:02.223549
+Numero de clientes antes: 28625
+Numero de produtos antes: 538
+Novos clientes: 12
+Novos produtos: 1
+Novo numero de clientes: 28637
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:24:01.756114
+Numero de clientes antes: 28637
+Numero de produtos antes: 539
+Novos clientes: 9
+Novos produtos: 3
+Novo numero de clientes: 28646
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:25:02.339640
+Numero de clientes antes: 28646
+Numero de produtos antes: 542
+Novos clientes: 4
+Novos produtos: 3
+Novo numero de clientes: 28650
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:26:01.953134
+Numero de clientes antes: 28650
+Numero de produtos antes: 545
+Novos clientes: 8
+Novos produtos: 2
+Novo numero de clientes: 28658
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:27:01.583886
+Numero de clientes antes: 28658
+Numero de produtos antes: 547
+Novos clientes: 20
+Novos produtos: 2
+Novo numero de clientes: 28678
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:28:02.159371
+Numero de clientes antes: 28678
+Numero de produtos antes: 549
+Novos clientes: 4
+Novos produtos: 1
+Novo numero de clientes: 28682
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:29:01.716966
+Numero de clientes antes: 28682
+Numero de produtos antes: 550
+Novos clientes: 16
+Novos produtos: 2
+Novo numero de clientes: 28698
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:30:02.267144
+Numero de clientes antes: 28698
+Numero de produtos antes: 552
+Novos clientes: 14
+Novos produtos: 2
+Novo numero de clientes: 28712
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:31:01.802775
+Numero de clientes antes: 28712
+Numero de produtos antes: 554
+Novos clientes: 8
+Novos produtos: 1
+Novo numero de clientes: 28720
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:32:02.485572
+Numero de clientes antes: 28720
+Numero de produtos antes: 555
+Novos clientes: 4
+Novos produtos: 4
+Novo numero de clientes: 28724
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:33:02.050174
+Numero de clientes antes: 28724
+Numero de produtos antes: 559
+Novos clientes: 11
+Novos produtos: 3
+Novo numero de clientes: 28735
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:34:01.597315
+Numero de clientes antes: 28735
+Numero de produtos antes: 562
+Novos clientes: 16
+Novos produtos: 1
+Novo numero de clientes: 28751
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:35:02.160378
+Numero de clientes antes: 28751
+Numero de produtos antes: 563
+Novos clientes: 10
+Novos produtos: 3
+Novo numero de clientes: 28761
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:36:01.765830
+Numero de clientes antes: 28761
+Numero de produtos antes: 566
+Novos clientes: 15
+Novos produtos: 3
+Novo numero de clientes: 28776
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:37:02.312411
+Numero de clientes antes: 28776
+Numero de produtos antes: 569
+Novos clientes: 4
+Novos produtos: 1
+Novo numero de clientes: 28780
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:38:01.847140
+Numero de clientes antes: 28780
+Numero de produtos antes: 570
+Novos clientes: 9
+Novos produtos: 2
+Novo numero de clientes: 28789
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:39:02.402803
+Numero de clientes antes: 28789
+Numero de produtos antes: 572
+Novos clientes: 8
+Novos produtos: 1
+Novo numero de clientes: 28797
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:40:01.925821
+Numero de clientes antes: 28797
+Numero de produtos antes: 573
+Novos clientes: 10
+Novos produtos: 1
+Novo numero de clientes: 28807
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:41:02.459438
+Numero de clientes antes: 28807
+Numero de produtos antes: 574
+Novos clientes: 9
+Novos produtos: 2
+Novo numero de clientes: 28816
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:42:02.003764
+Numero de clientes antes: 28816
+Numero de produtos antes: 576
+Novos clientes: 10
+Novos produtos: 3
+Novo numero de clientes: 28826
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:43:01.552495
+Numero de clientes antes: 28826
+Numero de produtos antes: 579
+Novos clientes: 20
+Novos produtos: 3
+Novo numero de clientes: 28846
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:44:02.080145
+Numero de clientes antes: 28846
+Numero de produtos antes: 582
+Novos clientes: 8
+Novos produtos: 2
+Novo numero de clientes: 28854
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:45:01.600890
+Numero de clientes antes: 28854
+Numero de produtos antes: 584
+Novos clientes: 19
+Novos produtos: 1
+Novo numero de clientes: 28873
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:46:02.126623
+Numero de clientes antes: 28873
+Numero de produtos antes: 585
+Novos clientes: 5
+Novos produtos: 4
+Novo numero de clientes: 28878
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:47:01.653462
+Numero de clientes antes: 28878
+Numero de produtos antes: 589
+Novos clientes: 16
+Novos produtos: 4
+Novo numero de clientes: 28894
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:48:02.194611
+Numero de clientes antes: 28894
+Numero de produtos antes: 593
+Novos clientes: 12
+Novos produtos: 1
+Novo numero de clientes: 28906
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:49:01.715250
+Numero de clientes antes: 28906
+Numero de produtos antes: 594
+Novos clientes: 10
+Novos produtos: 3
+Novo numero de clientes: 28916
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:50:02.252257
+Numero de clientes antes: 28916
+Numero de produtos antes: 597
+Novos clientes: 1
+Novos produtos: 4
+Novo numero de clientes: 28917
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:51:01.782299
+Numero de clientes antes: 28917
+Numero de produtos antes: 601
+Novos clientes: 19
+Novos produtos: 3
+Novo numero de clientes: 28936
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:52:02.322158
+Numero de clientes antes: 28936
+Numero de produtos antes: 604
+Novos clientes: 7
+Novos produtos: 4
+Novo numero de clientes: 28943
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:53:01.842142
+Numero de clientes antes: 28943
+Numero de produtos antes: 608
+Novos clientes: 13
+Novos produtos: 1
+Novo numero de clientes: 28956
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:54:02.370013
+Numero de clientes antes: 28956
+Numero de produtos antes: 609
+Novos clientes: 3
+Novos produtos: 1
+Novo numero de clientes: 28959
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:55:01.895449
+Numero de clientes antes: 28959
+Numero de produtos antes: 610
+Novos clientes: 1
+Novos produtos: 3
+Novo numero de clientes: 28960
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:56:02.424207
+Numero de clientes antes: 28960
+Numero de produtos antes: 613
+Novos clientes: 7
+Novos produtos: 3
+Novo numero de clientes: 28967
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:57:01.960346
+Numero de clientes antes: 28967
+Numero de produtos antes: 616
+Novos clientes: 8
+Novos produtos: 2
+Novo numero de clientes: 28975
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:58:01.475818
+Numero de clientes antes: 28975
+Numero de produtos antes: 618
+Novos clientes: 3
+Novos produtos: 4
+Novo numero de clientes: 28978
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 09:59:02.017174
+Numero de clientes antes: 28978
+Numero de produtos antes: 622
+Novos clientes: 19
+Novos produtos: 2
+Novo numero de clientes: 28997
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:00:01.565511
+Numero de clientes antes: 28997
+Numero de produtos antes: 624
+Novos clientes: 19
+Novos produtos: 1
+Novo numero de clientes: 29016
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:01:02.159790
+Numero de clientes antes: 29016
+Numero de produtos antes: 625
+Novos clientes: 14
+Novos produtos: 3
+Novo numero de clientes: 29030
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:02:01.679307
+Numero de clientes antes: 29030
+Numero de produtos antes: 628
+Novos clientes: 11
+Novos produtos: 1
+Novo numero de clientes: 29041
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:03:02.203613
+Numero de clientes antes: 29041
+Numero de produtos antes: 629
+Novos clientes: 1
+Novos produtos: 2
+Novo numero de clientes: 29042
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:04:01.739975
+Numero de clientes antes: 29042
+Numero de produtos antes: 631
+Novos clientes: 17
+Novos produtos: 1
+Novo numero de clientes: 29059
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:05:02.249157
+Numero de clientes antes: 29059
+Numero de produtos antes: 632
+Novos clientes: 16
+Novos produtos: 3
+Novo numero de clientes: 29075
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:06:01.774033
+Numero de clientes antes: 29075
+Numero de produtos antes: 635
+Novos clientes: 1
+Novos produtos: 1
+Novo numero de clientes: 29076
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:07:02.316010
+Numero de clientes antes: 29076
+Numero de produtos antes: 636
+Novos clientes: 15
+Novos produtos: 3
+Novo numero de clientes: 29091
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:08:01.856566
+Numero de clientes antes: 29091
+Numero de produtos antes: 639
+Novos clientes: 14
+Novos produtos: 2
+Novo numero de clientes: 29105
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:09:02.390750
+Numero de clientes antes: 29105
+Numero de produtos antes: 641
+Novos clientes: 19
+Novos produtos: 4
+Novo numero de clientes: 29124
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:10:01.930425
+Numero de clientes antes: 29124
+Numero de produtos antes: 645
+Novos clientes: 14
+Novos produtos: 4
+Novo numero de clientes: 29138
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:11:02.448882
+Numero de clientes antes: 29138
+Numero de produtos antes: 649
+Novos clientes: 12
+Novos produtos: 1
+Novo numero de clientes: 29150
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:12:01.989670
+Numero de clientes antes: 29150
+Numero de produtos antes: 650
+Novos clientes: 2
+Novos produtos: 1
+Novo numero de clientes: 29152
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:13:01.524575
+Numero de clientes antes: 29152
+Numero de produtos antes: 651
+Novos clientes: 15
+Novos produtos: 1
+Novo numero de clientes: 29167
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:14:02.103796
+Numero de clientes antes: 29167
+Numero de produtos antes: 652
+Novos clientes: 15
+Novos produtos: 2
+Novo numero de clientes: 29182
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:15:01.648848
+Numero de clientes antes: 29182
+Numero de produtos antes: 654
+Novos clientes: 3
+Novos produtos: 3
+Novo numero de clientes: 29185
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:16:02.181145
+Numero de clientes antes: 29185
+Numero de produtos antes: 657
+Novos clientes: 9
+Novos produtos: 1
+Novo numero de clientes: 29194
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:17:01.701418
+Numero de clientes antes: 29194
+Numero de produtos antes: 658
+Novos clientes: 18
+Novos produtos: 4
+Novo numero de clientes: 29212
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:18:02.240635
+Numero de clientes antes: 29212
+Numero de produtos antes: 662
+Novos clientes: 5
+Novos produtos: 3
+Novo numero de clientes: 29217
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:19:01.765100
+Numero de clientes antes: 29217
+Numero de produtos antes: 665
+Novos clientes: 9
+Novos produtos: 4
+Novo numero de clientes: 29226
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:20:02.328268
+Numero de clientes antes: 29226
+Numero de produtos antes: 669
+Novos clientes: 8
+Novos produtos: 1
+Novo numero de clientes: 29234
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:21:01.867548
+Numero de clientes antes: 29234
+Numero de produtos antes: 670
+Novos clientes: 9
+Novos produtos: 2
+Novo numero de clientes: 29243
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:22:02.423914
+Numero de clientes antes: 29243
+Numero de produtos antes: 672
+Novos clientes: 14
+Novos produtos: 3
+Novo numero de clientes: 29257
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:23:01.951607
+Numero de clientes antes: 29257
+Numero de produtos antes: 675
+Novos clientes: 6
+Novos produtos: 3
+Novo numero de clientes: 29263
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:24:01.494551
+Numero de clientes antes: 29263
+Numero de produtos antes: 678
+Novos clientes: 19
+Novos produtos: 2
+Novo numero de clientes: 29282
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:25:02.028923
+Numero de clientes antes: 29282
+Numero de produtos antes: 680
+Novos clientes: 16
+Novos produtos: 4
+Novo numero de clientes: 29298
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:26:01.570137
+Numero de clientes antes: 29298
+Numero de produtos antes: 684
+Novos clientes: 8
+Novos produtos: 2
+Novo numero de clientes: 29306
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:27:02.105613
+Numero de clientes antes: 29306
+Numero de produtos antes: 686
+Novos clientes: 18
+Novos produtos: 2
+Novo numero de clientes: 29324
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:28:01.649562
+Numero de clientes antes: 29324
+Numero de produtos antes: 688
+Novos clientes: 18
+Novos produtos: 4
+Novo numero de clientes: 29342
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:29:02.182354
+Numero de clientes antes: 29342
+Numero de produtos antes: 692
+Novos clientes: 12
+Novos produtos: 2
+Novo numero de clientes: 29354
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:30:01.717106
+Numero de clientes antes: 29354
+Numero de produtos antes: 694
+Novos clientes: 12
+Novos produtos: 4
+Novo numero de clientes: 29366
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:31:02.243620
+Numero de clientes antes: 29366
+Numero de produtos antes: 698
+Novos clientes: 2
+Novos produtos: 1
+Novo numero de clientes: 29368
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:32:01.772489
+Numero de clientes antes: 29368
+Numero de produtos antes: 699
+Novos clientes: 2
+Novos produtos: 2
+Novo numero de clientes: 29370
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:33:02.304259
+Numero de clientes antes: 29370
+Numero de produtos antes: 701
+Novos clientes: 16
+Novos produtos: 4
+Novo numero de clientes: 29386
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:34:01.836199
+Numero de clientes antes: 29386
+Numero de produtos antes: 705
+Novos clientes: 20
+Novos produtos: 3
+Novo numero de clientes: 29406
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:35:02.377601
+Numero de clientes antes: 29406
+Numero de produtos antes: 708
+Novos clientes: 20
+Novos produtos: 1
+Novo numero de clientes: 29426
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:36:01.927532
+Numero de clientes antes: 29426
+Numero de produtos antes: 709
+Novos clientes: 6
+Novos produtos: 2
+Novo numero de clientes: 29432
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:37:02.470441
+Numero de clientes antes: 29432
+Numero de produtos antes: 711
+Novos clientes: 1
+Novos produtos: 3
+Novo numero de clientes: 29433
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:38:02.013407
+Numero de clientes antes: 29433
+Numero de produtos antes: 714
+Novos clientes: 18
+Novos produtos: 2
+Novo numero de clientes: 29451
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:39:01.529758
+Numero de clientes antes: 29451
+Numero de produtos antes: 716
+Novos clientes: 18
+Novos produtos: 3
+Novo numero de clientes: 29469
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:40:02.063186
+Numero de clientes antes: 29469
+Numero de produtos antes: 719
+Novos clientes: 11
+Novos produtos: 3
+Novo numero de clientes: 29480
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:41:01.583942
+Numero de clientes antes: 29480
+Numero de produtos antes: 722
+Novos clientes: 3
+Novos produtos: 3
+Novo numero de clientes: 29483
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:42:02.108827
+Numero de clientes antes: 29483
+Numero de produtos antes: 725
+Novos clientes: 10
+Novos produtos: 2
+Novo numero de clientes: 29493
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:43:01.654924
+Numero de clientes antes: 29493
+Numero de produtos antes: 727
+Novos clientes: 10
+Novos produtos: 3
+Novo numero de clientes: 29503
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:44:02.200381
+Numero de clientes antes: 29503
+Numero de produtos antes: 730
+Novos clientes: 18
+Novos produtos: 3
+Novo numero de clientes: 29521
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:45:01.728895
+Numero de clientes antes: 29521
+Numero de produtos antes: 733
+Novos clientes: 9
+Novos produtos: 2
+Novo numero de clientes: 29530
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:46:02.268846
+Numero de clientes antes: 29530
+Numero de produtos antes: 735
+Novos clientes: 19
+Novos produtos: 1
+Novo numero de clientes: 29549
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:47:01.809162
+Numero de clientes antes: 29549
+Numero de produtos antes: 736
+Novos clientes: 12
+Novos produtos: 3
+Novo numero de clientes: 29561
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:48:02.324696
+Numero de clientes antes: 29561
+Numero de produtos antes: 739
+Novos clientes: 10
+Novos produtos: 2
+Novo numero de clientes: 29571
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:49:01.865417
+Numero de clientes antes: 29571
+Numero de produtos antes: 741
+Novos clientes: 12
+Novos produtos: 4
+Novo numero de clientes: 29583
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:50:02.395521
+Numero de clientes antes: 29583
+Numero de produtos antes: 745
+Novos clientes: 13
+Novos produtos: 3
+Novo numero de clientes: 29596
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:51:01.941540
+Numero de clientes antes: 29596
+Numero de produtos antes: 748
+Novos clientes: 2
+Novos produtos: 1
+Novo numero de clientes: 29598
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:52:01.492424
+Numero de clientes antes: 29598
+Numero de produtos antes: 749
+Novos clientes: 11
+Novos produtos: 2
+Novo numero de clientes: 29609
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:53:02.011883
+Numero de clientes antes: 29609
+Numero de produtos antes: 751
+Novos clientes: 2
+Novos produtos: 1
+Novo numero de clientes: 29611
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:54:01.531654
+Numero de clientes antes: 29611
+Numero de produtos antes: 752
+Novos clientes: 2
+Novos produtos: 2
+Novo numero de clientes: 29613
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:55:02.073623
+Numero de clientes antes: 29613
+Numero de produtos antes: 754
+Novos clientes: 6
+Novos produtos: 3
+Novo numero de clientes: 29619
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:56:01.625396
+Numero de clientes antes: 29619
+Numero de produtos antes: 757
+Novos clientes: 16
+Novos produtos: 1
+Novo numero de clientes: 29635
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:57:02.165876
+Numero de clientes antes: 29635
+Numero de produtos antes: 758
+Novos clientes: 6
+Novos produtos: 3
+Novo numero de clientes: 29641
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:58:01.720496
+Numero de clientes antes: 29641
+Numero de produtos antes: 761
+Novos clientes: 1
+Novos produtos: 3
+Novo numero de clientes: 29642
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 10:59:02.276419
+Numero de clientes antes: 29642
+Numero de produtos antes: 764
+Novos clientes: 6
+Novos produtos: 2
+Novo numero de clientes: 29648
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:00:01.809029
+Numero de clientes antes: 29648
+Numero de produtos antes: 766
+Novos clientes: 20
+Novos produtos: 2
+Novo numero de clientes: 29668
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:01:02.354853
+Numero de clientes antes: 29668
+Numero de produtos antes: 768
+Novos clientes: 2
+Novos produtos: 4
+Novo numero de clientes: 29670
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:02:01.894117
+Numero de clientes antes: 29670
+Numero de produtos antes: 772
+Novos clientes: 12
+Novos produtos: 1
+Novo numero de clientes: 29682
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:03:02.420384
+Numero de clientes antes: 29682
+Numero de produtos antes: 773
+Novos clientes: 18
+Novos produtos: 3
+Novo numero de clientes: 29700
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:04:01.952796
+Numero de clientes antes: 29700
+Numero de produtos antes: 776
+Novos clientes: 7
+Novos produtos: 3
+Novo numero de clientes: 29707
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:05:01.470756
+Numero de clientes antes: 29707
+Numero de produtos antes: 779
+Novos clientes: 6
+Novos produtos: 3
+Novo numero de clientes: 29713
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:06:02.001132
+Numero de clientes antes: 29713
+Numero de produtos antes: 782
+Novos clientes: 15
+Novos produtos: 2
+Novo numero de clientes: 29728
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:07:01.531725
+Numero de clientes antes: 29728
+Numero de produtos antes: 784
+Novos clientes: 12
+Novos produtos: 4
+Novo numero de clientes: 29740
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:08:02.059582
+Numero de clientes antes: 29740
+Numero de produtos antes: 788
+Novos clientes: 1
+Novos produtos: 1
+Novo numero de clientes: 29741
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:09:01.601293
+Numero de clientes antes: 29741
+Numero de produtos antes: 789
+Novos clientes: 12
+Novos produtos: 3
+Novo numero de clientes: 29753
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:10:02.146073
+Numero de clientes antes: 29753
+Numero de produtos antes: 792
+Novos clientes: 1
+Novos produtos: 3
+Novo numero de clientes: 29754
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:11:01.696791
+Numero de clientes antes: 29754
+Numero de produtos antes: 795
+Novos clientes: 11
+Novos produtos: 4
+Novo numero de clientes: 29765
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:12:02.235535
+Numero de clientes antes: 29765
+Numero de produtos antes: 799
+Novos clientes: 12
+Novos produtos: 4
+Novo numero de clientes: 29777
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:13:01.766413
+Numero de clientes antes: 29777
+Numero de produtos antes: 803
+Novos clientes: 10
+Novos produtos: 1
+Novo numero de clientes: 29787
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:14:02.302920
+Numero de clientes antes: 29787
+Numero de produtos antes: 804
+Novos clientes: 13
+Novos produtos: 1
+Novo numero de clientes: 29800
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:15:01.831971
+Numero de clientes antes: 29800
+Numero de produtos antes: 805
+Novos clientes: 20
+Novos produtos: 2
+Novo numero de clientes: 29820
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:16:02.373660
+Numero de clientes antes: 29820
+Numero de produtos antes: 807
+Novos clientes: 16
+Novos produtos: 4
+Novo numero de clientes: 29836
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:17:01.938130
+Numero de clientes antes: 29836
+Numero de produtos antes: 811
+Novos clientes: 1
+Novos produtos: 3
+Novo numero de clientes: 29837
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:18:01.462233
+Numero de clientes antes: 29837
+Numero de produtos antes: 814
+Novos clientes: 10
+Novos produtos: 4
+Novo numero de clientes: 29847
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:19:02.009222
+Numero de clientes antes: 29847
+Numero de produtos antes: 818
+Novos clientes: 14
+Novos produtos: 4
+Novo numero de clientes: 29861
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:20:01.541597
+Numero de clientes antes: 29861
+Numero de produtos antes: 822
+Novos clientes: 2
+Novos produtos: 1
+Novo numero de clientes: 29863
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:21:02.091543
+Numero de clientes antes: 29863
+Numero de produtos antes: 823
+Novos clientes: 17
+Novos produtos: 4
+Novo numero de clientes: 29880
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:22:01.631958
+Numero de clientes antes: 29880
+Numero de produtos antes: 827
+Novos clientes: 4
+Novos produtos: 2
+Novo numero de clientes: 29884
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:23:02.173747
+Numero de clientes antes: 29884
+Numero de produtos antes: 829
+Novos clientes: 5
+Novos produtos: 1
+Novo numero de clientes: 29889
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:24:01.727132
+Numero de clientes antes: 29889
+Numero de produtos antes: 830
+Novos clientes: 5
+Novos produtos: 1
+Novo numero de clientes: 29894
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:25:02.265754
+Numero de clientes antes: 29894
+Numero de produtos antes: 831
+Novos clientes: 8
+Novos produtos: 2
+Novo numero de clientes: 29902
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:26:01.791642
+Numero de clientes antes: 29902
+Numero de produtos antes: 833
+Novos clientes: 2
+Novos produtos: 2
+Novo numero de clientes: 29904
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:27:02.332567
+Numero de clientes antes: 29904
+Numero de produtos antes: 835
+Novos clientes: 5
+Novos produtos: 4
+Novo numero de clientes: 29909
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:28:01.885375
+Numero de clientes antes: 29909
+Numero de produtos antes: 839
+Novos clientes: 14
+Novos produtos: 3
+Novo numero de clientes: 29923
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:29:02.409587
+Numero de clientes antes: 29923
+Numero de produtos antes: 842
+Novos clientes: 6
+Novos produtos: 3
+Novo numero de clientes: 29929
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:30:01.958956
+Numero de clientes antes: 29929
+Numero de produtos antes: 845
+Novos clientes: 17
+Novos produtos: 3
+Novo numero de clientes: 29946
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:31:01.513489
+Numero de clientes antes: 29946
+Numero de produtos antes: 848
+Novos clientes: 14
+Novos produtos: 3
+Novo numero de clientes: 29960
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:32:02.044399
+Numero de clientes antes: 29960
+Numero de produtos antes: 851
+Novos clientes: 18
+Novos produtos: 1
+Novo numero de clientes: 29978
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:33:01.608628
+Numero de clientes antes: 29978
+Numero de produtos antes: 852
+Novos clientes: 4
+Novos produtos: 1
+Novo numero de clientes: 29982
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:34:02.141299
+Numero de clientes antes: 29982
+Numero de produtos antes: 853
+Novos clientes: 9
+Novos produtos: 4
+Novo numero de clientes: 29991
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:35:01.693286
+Numero de clientes antes: 29991
+Numero de produtos antes: 857
+Novos clientes: 11
+Novos produtos: 2
+Novo numero de clientes: 30002
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:36:02.242237
+Numero de clientes antes: 30002
+Numero de produtos antes: 859
+Novos clientes: 4
+Novos produtos: 2
+Novo numero de clientes: 30006
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:37:01.772165
+Numero de clientes antes: 30006
+Numero de produtos antes: 861
+Novos clientes: 8
+Novos produtos: 4
+Novo numero de clientes: 30014
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:38:02.296525
+Numero de clientes antes: 30014
+Numero de produtos antes: 865
+Novos clientes: 18
+Novos produtos: 2
+Novo numero de clientes: 30032
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:39:01.829935
+Numero de clientes antes: 30032
+Numero de produtos antes: 867
+Novos clientes: 14
+Novos produtos: 2
+Novo numero de clientes: 30046
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:40:02.378029
+Numero de clientes antes: 30046
+Numero de produtos antes: 869
+Novos clientes: 2
+Novos produtos: 3
+Novo numero de clientes: 30048
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:41:01.916328
+Numero de clientes antes: 30048
+Numero de produtos antes: 872
+Novos clientes: 9
+Novos produtos: 4
+Novo numero de clientes: 30057
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:42:02.462484
+Numero de clientes antes: 30057
+Numero de produtos antes: 876
+Novos clientes: 1
+Novos produtos: 4
+Novo numero de clientes: 30058
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:43:02.004011
+Numero de clientes antes: 30058
+Numero de produtos antes: 880
+Novos clientes: 6
+Novos produtos: 3
+Novo numero de clientes: 30064
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:44:01.544334
+Numero de clientes antes: 30064
+Numero de produtos antes: 883
+Novos clientes: 10
+Novos produtos: 3
+Novo numero de clientes: 30074
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:45:02.089520
+Numero de clientes antes: 30074
+Numero de produtos antes: 886
+Novos clientes: 5
+Novos produtos: 3
+Novo numero de clientes: 30079
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:46:01.622196
+Numero de clientes antes: 30079
+Numero de produtos antes: 889
+Novos clientes: 10
+Novos produtos: 1
+Novo numero de clientes: 30089
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:47:02.149172
+Numero de clientes antes: 30089
+Numero de produtos antes: 890
+Novos clientes: 7
+Novos produtos: 4
+Novo numero de clientes: 30096
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:48:01.674915
+Numero de clientes antes: 30096
+Numero de produtos antes: 894
+Novos clientes: 2
+Novos produtos: 3
+Novo numero de clientes: 30098
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:49:02.231268
+Numero de clientes antes: 30098
+Numero de produtos antes: 897
+Novos clientes: 13
+Novos produtos: 4
+Novo numero de clientes: 30111
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:50:01.771126
+Numero de clientes antes: 30111
+Numero de produtos antes: 901
+Novos clientes: 14
+Novos produtos: 4
+Novo numero de clientes: 30125
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:51:02.309016
+Numero de clientes antes: 30125
+Numero de produtos antes: 905
+Novos clientes: 10
+Novos produtos: 1
+Novo numero de clientes: 30135
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:52:01.855381
+Numero de clientes antes: 30135
+Numero de produtos antes: 906
+Novos clientes: 15
+Novos produtos: 4
+Novo numero de clientes: 30150
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:53:02.383148
+Numero de clientes antes: 30150
+Numero de produtos antes: 910
+Novos clientes: 17
+Novos produtos: 1
+Novo numero de clientes: 30167
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:54:01.930687
+Numero de clientes antes: 30167
+Numero de produtos antes: 911
+Novos clientes: 8
+Novos produtos: 1
+Novo numero de clientes: 30175
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:55:02.485316
+Numero de clientes antes: 30175
+Numero de produtos antes: 912
+Novos clientes: 6
+Novos produtos: 4
+Novo numero de clientes: 30181
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:56:02.023044
+Numero de clientes antes: 30181
+Numero de produtos antes: 916
+Novos clientes: 20
+Novos produtos: 3
+Novo numero de clientes: 30201
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:57:01.567777
+Numero de clientes antes: 30201
+Numero de produtos antes: 919
+Novos clientes: 13
+Novos produtos: 4
+Novo numero de clientes: 30214
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:58:02.111735
+Numero de clientes antes: 30214
+Numero de produtos antes: 923
+Novos clientes: 3
+Novos produtos: 4
+Novo numero de clientes: 30217
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 11:59:01.652507
+Numero de clientes antes: 30217
+Numero de produtos antes: 927
+Novos clientes: 10
+Novos produtos: 2
+Novo numero de clientes: 30227
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:00:02.195337
+Numero de clientes antes: 30227
+Numero de produtos antes: 929
+Novos clientes: 9
+Novos produtos: 2
+Novo numero de clientes: 30236
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:01:01.721963
+Numero de clientes antes: 30236
+Numero de produtos antes: 931
+Novos clientes: 15
+Novos produtos: 3
+Novo numero de clientes: 30251
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:02:02.263303
+Numero de clientes antes: 30251
+Numero de produtos antes: 934
+Novos clientes: 17
+Novos produtos: 2
+Novo numero de clientes: 30268
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:03:01.814531
+Numero de clientes antes: 30268
+Numero de produtos antes: 936
+Novos clientes: 13
+Novos produtos: 3
+Novo numero de clientes: 30281
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:04:02.353623
+Numero de clientes antes: 30281
+Numero de produtos antes: 939
+Novos clientes: 5
+Novos produtos: 2
+Novo numero de clientes: 30286
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:05:01.886929
+Numero de clientes antes: 30286
+Numero de produtos antes: 941
+Novos clientes: 11
+Novos produtos: 1
+Novo numero de clientes: 30297
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:06:02.418978
+Numero de clientes antes: 30297
+Numero de produtos antes: 942
+Novos clientes: 15
+Novos produtos: 1
+Novo numero de clientes: 30312
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:07:01.959623
+Numero de clientes antes: 30312
+Numero de produtos antes: 943
+Novos clientes: 8
+Novos produtos: 1
+Novo numero de clientes: 30320
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:08:01.485157
+Numero de clientes antes: 30320
+Numero de produtos antes: 944
+Novos clientes: 14
+Novos produtos: 4
+Novo numero de clientes: 30334
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:09:02.009142
+Numero de clientes antes: 30334
+Numero de produtos antes: 948
+Novos clientes: 16
+Novos produtos: 4
+Novo numero de clientes: 30350
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:10:01.565436
+Numero de clientes antes: 30350
+Numero de produtos antes: 952
+Novos clientes: 9
+Novos produtos: 2
+Novo numero de clientes: 30359
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:11:02.101282
+Numero de clientes antes: 30359
+Numero de produtos antes: 954
+Novos clientes: 10
+Novos produtos: 4
+Novo numero de clientes: 30369
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:12:01.651555
+Numero de clientes antes: 30369
+Numero de produtos antes: 958
+Novos clientes: 18
+Novos produtos: 2
+Novo numero de clientes: 30387
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:13:02.178859
+Numero de clientes antes: 30387
+Numero de produtos antes: 960
+Novos clientes: 13
+Novos produtos: 2
+Novo numero de clientes: 30400
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:14:01.700399
+Numero de clientes antes: 30400
+Numero de produtos antes: 962
+Novos clientes: 12
+Novos produtos: 4
+Novo numero de clientes: 30412
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:15:02.296474
+Numero de clientes antes: 30412
+Numero de produtos antes: 966
+Novos clientes: 8
+Novos produtos: 1
+Novo numero de clientes: 30420
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:16:01.841345
+Numero de clientes antes: 30420
+Numero de produtos antes: 967
+Novos clientes: 3
+Novos produtos: 2
+Novo numero de clientes: 30423
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:17:02.359731
+Numero de clientes antes: 30423
+Numero de produtos antes: 969
+Novos clientes: 1
+Novos produtos: 3
+Novo numero de clientes: 30424
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:18:01.893685
+Numero de clientes antes: 30424
+Numero de produtos antes: 972
+Novos clientes: 6
+Novos produtos: 3
+Novo numero de clientes: 30430
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:19:02.435161
+Numero de clientes antes: 30430
+Numero de produtos antes: 975
+Novos clientes: 16
+Novos produtos: 2
+Novo numero de clientes: 30446
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:20:01.969640
+Numero de clientes antes: 30446
+Numero de produtos antes: 977
+Novos clientes: 15
+Novos produtos: 1
+Novo numero de clientes: 30461
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:21:01.497810
+Numero de clientes antes: 30461
+Numero de produtos antes: 978
+Novos clientes: 15
+Novos produtos: 3
+Novo numero de clientes: 30476
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:22:02.030426
+Numero de clientes antes: 30476
+Numero de produtos antes: 981
+Novos clientes: 16
+Novos produtos: 4
+Novo numero de clientes: 30492
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:23:01.564642
+Numero de clientes antes: 30492
+Numero de produtos antes: 985
+Novos clientes: 19
+Novos produtos: 1
+Novo numero de clientes: 30511
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:24:02.110705
+Numero de clientes antes: 30511
+Numero de produtos antes: 986
+Novos clientes: 10
+Novos produtos: 3
+Novo numero de clientes: 30521
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:25:01.636227
+Numero de clientes antes: 30521
+Numero de produtos antes: 989
+Novos clientes: 12
+Novos produtos: 4
+Novo numero de clientes: 30533
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:26:02.159888
+Numero de clientes antes: 30533
+Numero de produtos antes: 993
+Novos clientes: 20
+Novos produtos: 2
+Novo numero de clientes: 30553
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:27:01.698019
+Numero de clientes antes: 30553
+Numero de produtos antes: 995
+Novos clientes: 3
+Novos produtos: 3
+Novo numero de clientes: 30556
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:28:02.234699
+Numero de clientes antes: 30556
+Numero de produtos antes: 998
+Novos clientes: 6
+Novos produtos: 3
+Novo numero de clientes: 30562
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:29:01.766995
+Numero de clientes antes: 30562
+Numero de produtos antes: 1001
+Novos clientes: 10
+Novos produtos: 3
+Novo numero de clientes: 30572
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:30:02.292281
+Numero de clientes antes: 30572
+Numero de produtos antes: 1004
+Novos clientes: 19
+Novos produtos: 1
+Novo numero de clientes: 30591
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:31:01.841575
+Numero de clientes antes: 30591
+Numero de produtos antes: 1005
+Novos clientes: 15
+Novos produtos: 3
+Novo numero de clientes: 30606
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:32:02.388097
+Numero de clientes antes: 30606
+Numero de produtos antes: 1008
+Novos clientes: 7
+Novos produtos: 2
+Novo numero de clientes: 30613
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:33:01.914439
+Numero de clientes antes: 30613
+Numero de produtos antes: 1010
+Novos clientes: 6
+Novos produtos: 4
+Novo numero de clientes: 30619
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:34:02.453512
+Numero de clientes antes: 30619
+Numero de produtos antes: 1014
+Novos clientes: 7
+Novos produtos: 4
+Novo numero de clientes: 30626
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:35:02.003369
+Numero de clientes antes: 30626
+Numero de produtos antes: 1018
+Novos clientes: 4
+Novos produtos: 4
+Novo numero de clientes: 30630
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:36:01.535150
+Numero de clientes antes: 30630
+Numero de produtos antes: 1022
+Novos clientes: 4
+Novos produtos: 4
+Novo numero de clientes: 30634
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:37:02.078418
+Numero de clientes antes: 30634
+Numero de produtos antes: 1026
+Novos clientes: 6
+Novos produtos: 4
+Novo numero de clientes: 30640
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:38:01.616700
+Numero de clientes antes: 30640
+Numero de produtos antes: 1030
+Novos clientes: 14
+Novos produtos: 4
+Novo numero de clientes: 30654
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:39:02.175397
+Numero de clientes antes: 30654
+Numero de produtos antes: 1034
+Novos clientes: 9
+Novos produtos: 3
+Novo numero de clientes: 30663
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:40:01.718970
+Numero de clientes antes: 30663
+Numero de produtos antes: 1037
+Novos clientes: 4
+Novos produtos: 3
+Novo numero de clientes: 30667
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:41:02.249767
+Numero de clientes antes: 30667
+Numero de produtos antes: 1040
+Novos clientes: 8
+Novos produtos: 1
+Novo numero de clientes: 30675
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:42:01.789465
+Numero de clientes antes: 30675
+Numero de produtos antes: 1041
+Novos clientes: 9
+Novos produtos: 1
+Novo numero de clientes: 30684
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:43:02.329891
+Numero de clientes antes: 30684
+Numero de produtos antes: 1042
+Novos clientes: 15
+Novos produtos: 1
+Novo numero de clientes: 30699
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:44:01.882302
+Numero de clientes antes: 30699
+Numero de produtos antes: 1043
+Novos clientes: 8
+Novos produtos: 1
+Novo numero de clientes: 30707
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:45:02.419807
+Numero de clientes antes: 30707
+Numero de produtos antes: 1044
+Novos clientes: 16
+Novos produtos: 4
+Novo numero de clientes: 30723
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:46:01.975468
+Numero de clientes antes: 30723
+Numero de produtos antes: 1048
+Novos clientes: 12
+Novos produtos: 1
+Novo numero de clientes: 30735
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:47:01.505112
+Numero de clientes antes: 30735
+Numero de produtos antes: 1049
+Novos clientes: 12
+Novos produtos: 2
+Novo numero de clientes: 30747
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:48:02.041957
+Numero de clientes antes: 30747
+Numero de produtos antes: 1051
+Novos clientes: 9
+Novos produtos: 1
+Novo numero de clientes: 30756
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:49:01.584402
+Numero de clientes antes: 30756
+Numero de produtos antes: 1052
+Novos clientes: 12
+Novos produtos: 3
+Novo numero de clientes: 30768
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:50:02.117654
+Numero de clientes antes: 30768
+Numero de produtos antes: 1055
+Novos clientes: 7
+Novos produtos: 4
+Novo numero de clientes: 30775
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:51:01.669319
+Numero de clientes antes: 30775
+Numero de produtos antes: 1059
+Novos clientes: 6
+Novos produtos: 1
+Novo numero de clientes: 30781
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:52:02.199615
+Numero de clientes antes: 30781
+Numero de produtos antes: 1060
+Novos clientes: 3
+Novos produtos: 3
+Novo numero de clientes: 30784
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:53:01.738679
+Numero de clientes antes: 30784
+Numero de produtos antes: 1063
+Novos clientes: 11
+Novos produtos: 2
+Novo numero de clientes: 30795
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:54:02.276895
+Numero de clientes antes: 30795
+Numero de produtos antes: 1065
+Novos clientes: 19
+Novos produtos: 3
+Novo numero de clientes: 30814
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:55:01.825850
+Numero de clientes antes: 30814
+Numero de produtos antes: 1068
+Novos clientes: 14
+Novos produtos: 1
+Novo numero de clientes: 30828
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:56:02.374070
+Numero de clientes antes: 30828
+Numero de produtos antes: 1069
+Novos clientes: 2
+Novos produtos: 4
+Novo numero de clientes: 30830
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:57:01.915121
+Numero de clientes antes: 30830
+Numero de produtos antes: 1073
+Novos clientes: 16
+Novos produtos: 2
+Novo numero de clientes: 30846
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:58:02.467204
+Numero de clientes antes: 30846
+Numero de produtos antes: 1075
+Novos clientes: 5
+Novos produtos: 4
+Novo numero de clientes: 30851
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 12:59:02.052691
+Numero de clientes antes: 30851
+Numero de produtos antes: 1079
+Novos clientes: 7
+Novos produtos: 4
+Novo numero de clientes: 30858
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:00:01.592171
+Numero de clientes antes: 30858
+Numero de produtos antes: 1083
+Novos clientes: 17
+Novos produtos: 1
+Novo numero de clientes: 30875
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:01:02.126834
+Numero de clientes antes: 30875
+Numero de produtos antes: 1084
+Novos clientes: 6
+Novos produtos: 4
+Novo numero de clientes: 30881
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:02:01.656152
+Numero de clientes antes: 30881
+Numero de produtos antes: 1088
+Novos clientes: 14
+Novos produtos: 3
+Novo numero de clientes: 30895
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:03:02.196030
+Numero de clientes antes: 30895
+Numero de produtos antes: 1091
+Novos clientes: 9
+Novos produtos: 1
+Novo numero de clientes: 30904
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:04:01.730241
+Numero de clientes antes: 30904
+Numero de produtos antes: 1092
+Novos clientes: 5
+Novos produtos: 1
+Novo numero de clientes: 30909
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:05:02.294710
+Numero de clientes antes: 30909
+Numero de produtos antes: 1093
+Novos clientes: 9
+Novos produtos: 3
+Novo numero de clientes: 30918
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:06:01.823550
+Numero de clientes antes: 30918
+Numero de produtos antes: 1096
+Novos clientes: 13
+Novos produtos: 3
+Novo numero de clientes: 30931
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:07:02.365824
+Numero de clientes antes: 30931
+Numero de produtos antes: 1099
+Novos clientes: 12
+Novos produtos: 1
+Novo numero de clientes: 30943
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:08:01.927678
+Numero de clientes antes: 30943
+Numero de produtos antes: 1100
+Novos clientes: 13
+Novos produtos: 3
+Novo numero de clientes: 30956
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:09:02.486259
+Numero de clientes antes: 30956
+Numero de produtos antes: 1103
+Novos clientes: 12
+Novos produtos: 2
+Novo numero de clientes: 30968
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:10:02.055757
+Numero de clientes antes: 30968
+Numero de produtos antes: 1105
+Novos clientes: 3
+Novos produtos: 4
+Novo numero de clientes: 30971
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:11:01.581561
+Numero de clientes antes: 30971
+Numero de produtos antes: 1109
+Novos clientes: 5
+Novos produtos: 3
+Novo numero de clientes: 30976
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:12:02.133923
+Numero de clientes antes: 30976
+Numero de produtos antes: 1112
+Novos clientes: 15
+Novos produtos: 2
+Novo numero de clientes: 30991
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:13:01.667264
+Numero de clientes antes: 30991
+Numero de produtos antes: 1114
+Novos clientes: 5
+Novos produtos: 1
+Novo numero de clientes: 30996
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:14:02.209038
+Numero de clientes antes: 30996
+Numero de produtos antes: 1115
+Novos clientes: 17
+Novos produtos: 2
+Novo numero de clientes: 31013
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:15:01.731682
+Numero de clientes antes: 31013
+Numero de produtos antes: 1117
+Novos clientes: 9
+Novos produtos: 4
+Novo numero de clientes: 31022
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:16:02.261108
+Numero de clientes antes: 31022
+Numero de produtos antes: 1121
+Novos clientes: 11
+Novos produtos: 2
+Novo numero de clientes: 31033
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:17:01.788037
+Numero de clientes antes: 31033
+Numero de produtos antes: 1123
+Novos clientes: 12
+Novos produtos: 4
+Novo numero de clientes: 31045
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:18:02.321030
+Numero de clientes antes: 31045
+Numero de produtos antes: 1127
+Novos clientes: 10
+Novos produtos: 4
+Novo numero de clientes: 31055
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:19:01.853847
+Numero de clientes antes: 31055
+Numero de produtos antes: 1131
+Novos clientes: 6
+Novos produtos: 1
+Novo numero de clientes: 31061
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:20:02.439947
+Numero de clientes antes: 31061
+Numero de produtos antes: 1132
+Novos clientes: 15
+Novos produtos: 3
+Novo numero de clientes: 31076
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:21:01.980360
+Numero de clientes antes: 31076
+Numero de produtos antes: 1135
+Novos clientes: 12
+Novos produtos: 2
+Novo numero de clientes: 31088
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:22:01.530128
+Numero de clientes antes: 31088
+Numero de produtos antes: 1137
+Novos clientes: 16
+Novos produtos: 1
+Novo numero de clientes: 31104
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:23:02.050727
+Numero de clientes antes: 31104
+Numero de produtos antes: 1138
+Novos clientes: 4
+Novos produtos: 4
+Novo numero de clientes: 31108
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:24:01.579050
+Numero de clientes antes: 31108
+Numero de produtos antes: 1142
+Novos clientes: 13
+Novos produtos: 4
+Novo numero de clientes: 31121
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:25:02.125008
+Numero de clientes antes: 31121
+Numero de produtos antes: 1146
+Novos clientes: 10
+Novos produtos: 3
+Novo numero de clientes: 31131
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:26:01.680651
+Numero de clientes antes: 31131
+Numero de produtos antes: 1149
+Novos clientes: 16
+Novos produtos: 1
+Novo numero de clientes: 31147
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:27:02.232214
+Numero de clientes antes: 31147
+Numero de produtos antes: 1150
+Novos clientes: 16
+Novos produtos: 1
+Novo numero de clientes: 31163
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:28:01.766067
+Numero de clientes antes: 31163
+Numero de produtos antes: 1151
+Novos clientes: 18
+Novos produtos: 1
+Novo numero de clientes: 31181
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:29:02.289985
+Numero de clientes antes: 31181
+Numero de produtos antes: 1152
+Novos clientes: 14
+Novos produtos: 3
+Novo numero de clientes: 31195
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:30:01.831261
+Numero de clientes antes: 31195
+Numero de produtos antes: 1155
+Novos clientes: 9
+Novos produtos: 4
+Novo numero de clientes: 31204
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:31:02.386670
+Numero de clientes antes: 31204
+Numero de produtos antes: 1159
+Novos clientes: 16
+Novos produtos: 3
+Novo numero de clientes: 31220
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:32:01.925108
+Numero de clientes antes: 31220
+Numero de produtos antes: 1162
+Novos clientes: 8
+Novos produtos: 2
+Novo numero de clientes: 31228
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:33:02.465383
+Numero de clientes antes: 31228
+Numero de produtos antes: 1164
+Novos clientes: 14
+Novos produtos: 3
+Novo numero de clientes: 31242
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:34:01.996327
+Numero de clientes antes: 31242
+Numero de produtos antes: 1167
+Novos clientes: 17
+Novos produtos: 4
+Novo numero de clientes: 31259
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:35:01.546823
+Numero de clientes antes: 31259
+Numero de produtos antes: 1171
+Novos clientes: 10
+Novos produtos: 1
+Novo numero de clientes: 31269
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:36:02.103131
+Numero de clientes antes: 31269
+Numero de produtos antes: 1172
+Novos clientes: 13
+Novos produtos: 1
+Novo numero de clientes: 31282
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:37:01.649711
+Numero de clientes antes: 31282
+Numero de produtos antes: 1173
+Novos clientes: 2
+Novos produtos: 4
+Novo numero de clientes: 31284
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:38:02.185520
+Numero de clientes antes: 31284
+Numero de produtos antes: 1177
+Novos clientes: 4
+Novos produtos: 2
+Novo numero de clientes: 31288
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:39:01.719706
+Numero de clientes antes: 31288
+Numero de produtos antes: 1179
+Novos clientes: 10
+Novos produtos: 4
+Novo numero de clientes: 31298
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:40:02.263748
+Numero de clientes antes: 31298
+Numero de produtos antes: 1183
+Novos clientes: 12
+Novos produtos: 3
+Novo numero de clientes: 31310
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:41:01.829529
+Numero de clientes antes: 31310
+Numero de produtos antes: 1186
+Novos clientes: 17
+Novos produtos: 3
+Novo numero de clientes: 31327
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:42:02.369582
+Numero de clientes antes: 31327
+Numero de produtos antes: 1189
+Novos clientes: 1
+Novos produtos: 2
+Novo numero de clientes: 31328
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:43:01.915777
+Numero de clientes antes: 31328
+Numero de produtos antes: 1191
+Novos clientes: 7
+Novos produtos: 3
+Novo numero de clientes: 31335
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:44:02.451835
+Numero de clientes antes: 31335
+Numero de produtos antes: 1194
+Novos clientes: 6
+Novos produtos: 4
+Novo numero de clientes: 31341
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:45:01.991700
+Numero de clientes antes: 31341
+Numero de produtos antes: 1198
+Novos clientes: 18
+Novos produtos: 2
+Novo numero de clientes: 31359
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:46:01.541515
+Numero de clientes antes: 31359
+Numero de produtos antes: 1200
+Novos clientes: 15
+Novos produtos: 4
+Novo numero de clientes: 31374
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:47:02.076487
+Numero de clientes antes: 31374
+Numero de produtos antes: 1204
+Novos clientes: 14
+Novos produtos: 2
+Novo numero de clientes: 31388
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:48:01.624898
+Numero de clientes antes: 31388
+Numero de produtos antes: 1206
+Novos clientes: 8
+Novos produtos: 1
+Novo numero de clientes: 31396
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:49:02.168922
+Numero de clientes antes: 31396
+Numero de produtos antes: 1207
+Novos clientes: 6
+Novos produtos: 2
+Novo numero de clientes: 31402
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:50:01.712193
+Numero de clientes antes: 31402
+Numero de produtos antes: 1209
+Novos clientes: 9
+Novos produtos: 3
+Novo numero de clientes: 31411
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:51:02.295328
+Numero de clientes antes: 31411
+Numero de produtos antes: 1212
+Novos clientes: 16
+Novos produtos: 2
+Novo numero de clientes: 31427
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:52:01.829319
+Numero de clientes antes: 31427
+Numero de produtos antes: 1214
+Novos clientes: 19
+Novos produtos: 1
+Novo numero de clientes: 31446
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:53:02.358055
+Numero de clientes antes: 31446
+Numero de produtos antes: 1215
+Novos clientes: 12
+Novos produtos: 4
+Novo numero de clientes: 31458
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:54:01.898863
+Numero de clientes antes: 31458
+Numero de produtos antes: 1219
+Novos clientes: 15
+Novos produtos: 4
+Novo numero de clientes: 31473
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:55:02.434635
+Numero de clientes antes: 31473
+Numero de produtos antes: 1223
+Novos clientes: 4
+Novos produtos: 1
+Novo numero de clientes: 31477
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:56:01.981253
+Numero de clientes antes: 31477
+Numero de produtos antes: 1224
+Novos clientes: 1
+Novos produtos: 1
+Novo numero de clientes: 31478
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:57:01.533231
+Numero de clientes antes: 31478
+Numero de produtos antes: 1225
+Novos clientes: 16
+Novos produtos: 3
+Novo numero de clientes: 31494
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:58:02.081847
+Numero de clientes antes: 31494
+Numero de produtos antes: 1228
+Novos clientes: 13
+Novos produtos: 3
+Novo numero de clientes: 31507
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 13:59:01.621535
+Numero de clientes antes: 31507
+Numero de produtos antes: 1231
+Novos clientes: 10
+Novos produtos: 3
+Novo numero de clientes: 31517
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:00:02.180856
+Numero de clientes antes: 31517
+Numero de produtos antes: 1234
+Novos clientes: 15
+Novos produtos: 4
+Novo numero de clientes: 31532
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:01:01.711497
+Numero de clientes antes: 31532
+Numero de produtos antes: 1238
+Novos clientes: 2
+Novos produtos: 1
+Novo numero de clientes: 31534
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:02:02.244011
+Numero de clientes antes: 31534
+Numero de produtos antes: 1239
+Novos clientes: 20
+Novos produtos: 3
+Novo numero de clientes: 31554
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:03:01.790359
+Numero de clientes antes: 31554
+Numero de produtos antes: 1242
+Novos clientes: 17
+Novos produtos: 1
+Novo numero de clientes: 31571
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:04:02.333808
+Numero de clientes antes: 31571
+Numero de produtos antes: 1243
+Novos clientes: 7
+Novos produtos: 4
+Novo numero de clientes: 31578
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:05:01.865953
+Numero de clientes antes: 31578
+Numero de produtos antes: 1247
+Novos clientes: 8
+Novos produtos: 2
+Novo numero de clientes: 31586
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:06:02.416704
+Numero de clientes antes: 31586
+Numero de produtos antes: 1249
+Novos clientes: 6
+Novos produtos: 1
+Novo numero de clientes: 31592
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:07:01.952323
+Numero de clientes antes: 31592
+Numero de produtos antes: 1250
+Novos clientes: 4
+Novos produtos: 2
+Novo numero de clientes: 31596
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:08:01.507250
+Numero de clientes antes: 31596
+Numero de produtos antes: 1252
+Novos clientes: 7
+Novos produtos: 3
+Novo numero de clientes: 31603
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:09:02.041641
+Numero de clientes antes: 31603
+Numero de produtos antes: 1255
+Novos clientes: 11
+Novos produtos: 2
+Novo numero de clientes: 31614
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:10:01.581853
+Numero de clientes antes: 31614
+Numero de produtos antes: 1257
+Novos clientes: 11
+Novos produtos: 1
+Novo numero de clientes: 31625
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:11:02.119802
+Numero de clientes antes: 31625
+Numero de produtos antes: 1258
+Novos clientes: 18
+Novos produtos: 1
+Novo numero de clientes: 31643
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:12:01.661053
+Numero de clientes antes: 31643
+Numero de produtos antes: 1259
+Novos clientes: 1
+Novos produtos: 3
+Novo numero de clientes: 31644
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:13:02.202444
+Numero de clientes antes: 31644
+Numero de produtos antes: 1262
+Novos clientes: 20
+Novos produtos: 1
+Novo numero de clientes: 31664
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:14:01.757825
+Numero de clientes antes: 31664
+Numero de produtos antes: 1263
+Novos clientes: 9
+Novos produtos: 1
+Novo numero de clientes: 31673
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:15:02.295888
+Numero de clientes antes: 31673
+Numero de produtos antes: 1264
+Novos clientes: 8
+Novos produtos: 3
+Novo numero de clientes: 31681
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:16:01.826597
+Numero de clientes antes: 31681
+Numero de produtos antes: 1267
+Novos clientes: 3
+Novos produtos: 2
+Novo numero de clientes: 31684
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:17:02.360579
+Numero de clientes antes: 31684
+Numero de produtos antes: 1269
+Novos clientes: 7
+Novos produtos: 1
+Novo numero de clientes: 31691
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:18:01.893809
+Numero de clientes antes: 31691
+Numero de produtos antes: 1270
+Novos clientes: 8
+Novos produtos: 2
+Novo numero de clientes: 31699
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:19:02.433190
+Numero de clientes antes: 31699
+Numero de produtos antes: 1272
+Novos clientes: 9
+Novos produtos: 4
+Novo numero de clientes: 31708
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:20:01.987773
+Numero de clientes antes: 31708
+Numero de produtos antes: 1276
+Novos clientes: 14
+Novos produtos: 1
+Novo numero de clientes: 31722
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:21:01.580588
+Numero de clientes antes: 31722
+Numero de produtos antes: 1277
+Novos clientes: 12
+Novos produtos: 4
+Novo numero de clientes: 31734
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:22:02.135841
+Numero de clientes antes: 31734
+Numero de produtos antes: 1281
+Novos clientes: 17
+Novos produtos: 4
+Novo numero de clientes: 31751
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:23:01.691464
+Numero de clientes antes: 31751
+Numero de produtos antes: 1285
+Novos clientes: 15
+Novos produtos: 1
+Novo numero de clientes: 31766
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:24:02.221749
+Numero de clientes antes: 31766
+Numero de produtos antes: 1286
+Novos clientes: 4
+Novos produtos: 1
+Novo numero de clientes: 31770
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:25:01.836177
+Numero de clientes antes: 31770
+Numero de produtos antes: 1287
+Novos clientes: 18
+Novos produtos: 4
+Novo numero de clientes: 31788
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:26:02.485247
+Numero de clientes antes: 31788
+Numero de produtos antes: 1291
+Novos clientes: 16
+Novos produtos: 4
+Novo numero de clientes: 31804
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:27:02.115408
+Numero de clientes antes: 31804
+Numero de produtos antes: 1295
+Novos clientes: 4
+Novos produtos: 3
+Novo numero de clientes: 31808
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:28:01.751240
+Numero de clientes antes: 31808
+Numero de produtos antes: 1298
+Novos clientes: 11
+Novos produtos: 4
+Novo numero de clientes: 31819
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:29:02.378645
+Numero de clientes antes: 31819
+Numero de produtos antes: 1302
+Novos clientes: 1
+Novos produtos: 3
+Novo numero de clientes: 31820
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:30:01.952934
+Numero de clientes antes: 31820
+Numero de produtos antes: 1305
+Novos clientes: 19
+Novos produtos: 3
+Novo numero de clientes: 31839
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:31:01.556995
+Numero de clientes antes: 31839
+Numero de produtos antes: 1308
+Novos clientes: 10
+Novos produtos: 2
+Novo numero de clientes: 31849
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:32:02.232188
+Numero de clientes antes: 31849
+Numero de produtos antes: 1310
+Novos clientes: 9
+Novos produtos: 1
+Novo numero de clientes: 31858
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:33:01.788460
+Numero de clientes antes: 31858
+Numero de produtos antes: 1311
+Novos clientes: 17
+Novos produtos: 3
+Novo numero de clientes: 31875
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:34:02.377693
+Numero de clientes antes: 31875
+Numero de produtos antes: 1314
+Novos clientes: 1
+Novos produtos: 2
+Novo numero de clientes: 31876
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:35:01.980356
+Numero de clientes antes: 31876
+Numero de produtos antes: 1316
+Novos clientes: 11
+Novos produtos: 2
+Novo numero de clientes: 31887
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:36:01.639274
+Numero de clientes antes: 31887
+Numero de produtos antes: 1318
+Novos clientes: 14
+Novos produtos: 2
+Novo numero de clientes: 31901
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:37:02.352154
+Numero de clientes antes: 31901
+Numero de produtos antes: 1320
+Novos clientes: 19
+Novos produtos: 1
+Novo numero de clientes: 31920
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:38:02.023258
+Numero de clientes antes: 31920
+Numero de produtos antes: 1321
+Novos clientes: 3
+Novos produtos: 1
+Novo numero de clientes: 31923
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:39:01.751161
+Numero de clientes antes: 31923
+Numero de produtos antes: 1322
+Novos clientes: 4
+Novos produtos: 2
+Novo numero de clientes: 31927
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:40:02.409137
+Numero de clientes antes: 31927
+Numero de produtos antes: 1324
+Novos clientes: 6
+Novos produtos: 2
+Novo numero de clientes: 31933
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:41:02.001581
+Numero de clientes antes: 31933
+Numero de produtos antes: 1326
+Novos clientes: 13
+Novos produtos: 1
+Novo numero de clientes: 31946
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:42:01.584459
+Numero de clientes antes: 31946
+Numero de produtos antes: 1327
+Novos clientes: 2
+Novos produtos: 3
+Novo numero de clientes: 31948
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:43:02.200005
+Numero de clientes antes: 31948
+Numero de produtos antes: 1330
+Novos clientes: 2
+Novos produtos: 3
+Novo numero de clientes: 31950
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:44:01.841232
+Numero de clientes antes: 31950
+Numero de produtos antes: 1333
+Novos clientes: 6
+Novos produtos: 1
+Novo numero de clientes: 31956
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:45:02.490260
+Numero de clientes antes: 31956
+Numero de produtos antes: 1334
+Novos clientes: 2
+Novos produtos: 2
+Novo numero de clientes: 31958
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:46:02.056854
+Numero de clientes antes: 31958
+Numero de produtos antes: 1336
+Novos clientes: 19
+Novos produtos: 3
+Novo numero de clientes: 31977
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:47:01.641789
+Numero de clientes antes: 31977
+Numero de produtos antes: 1339
+Novos clientes: 16
+Novos produtos: 4
+Novo numero de clientes: 31993
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:48:02.264757
+Numero de clientes antes: 31993
+Numero de produtos antes: 1343
+Novos clientes: 2
+Novos produtos: 4
+Novo numero de clientes: 31995
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:49:01.820999
+Numero de clientes antes: 31995
+Numero de produtos antes: 1347
+Novos clientes: 17
+Novos produtos: 4
+Novo numero de clientes: 32012
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:50:02.379613
+Numero de clientes antes: 32012
+Numero de produtos antes: 1351
+Novos clientes: 8
+Novos produtos: 1
+Novo numero de clientes: 32020
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:51:01.930183
+Numero de clientes antes: 32020
+Numero de produtos antes: 1352
+Novos clientes: 3
+Novos produtos: 2
+Novo numero de clientes: 32023
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:52:02.485561
+Numero de clientes antes: 32023
+Numero de produtos antes: 1354
+Novos clientes: 8
+Novos produtos: 1
+Novo numero de clientes: 32031
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:53:02.159600
+Numero de clientes antes: 32031
+Numero de produtos antes: 1355
+Novos clientes: 5
+Novos produtos: 2
+Novo numero de clientes: 32036
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:54:01.856134
+Numero de clientes antes: 32036
+Numero de produtos antes: 1357
+Novos clientes: 18
+Novos produtos: 1
+Novo numero de clientes: 32054
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:55:02.551330
+Numero de clientes antes: 32054
+Numero de produtos antes: 1358
+Novos clientes: 1
+Novos produtos: 2
+Novo numero de clientes: 32055
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:56:02.291757
+Numero de clientes antes: 32055
+Numero de produtos antes: 1360
+Novos clientes: 7
+Novos produtos: 4
+Novo numero de clientes: 32062
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:57:01.958108
+Numero de clientes antes: 32062
+Numero de produtos antes: 1364
+Novos clientes: 16
+Novos produtos: 4
+Novo numero de clientes: 32078
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:58:01.629444
+Numero de clientes antes: 32078
+Numero de produtos antes: 1368
+Novos clientes: 17
+Novos produtos: 3
+Novo numero de clientes: 32095
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 14:59:02.315789
+Numero de clientes antes: 32095
+Numero de produtos antes: 1371
+Novos clientes: 8
+Novos produtos: 2
+Novo numero de clientes: 32103
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:00:02.037185
+Numero de clientes antes: 32103
+Numero de produtos antes: 1373
+Novos clientes: 6
+Novos produtos: 3
+Novo numero de clientes: 32109
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:01:01.674133
+Numero de clientes antes: 32109
+Numero de produtos antes: 1376
+Novos clientes: 17
+Novos produtos: 3
+Novo numero de clientes: 32126
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:02:02.365382
+Numero de clientes antes: 32126
+Numero de produtos antes: 1379
+Novos clientes: 18
+Novos produtos: 4
+Novo numero de clientes: 32144
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:03:02.141513
+Numero de clientes antes: 32144
+Numero de produtos antes: 1383
+Novos clientes: 9
+Novos produtos: 1
+Novo numero de clientes: 32153
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:04:01.730725
+Numero de clientes antes: 32153
+Numero de produtos antes: 1384
+Novos clientes: 1
+Novos produtos: 1
+Novo numero de clientes: 32154
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:05:02.357703
+Numero de clientes antes: 32154
+Numero de produtos antes: 1385
+Novos clientes: 16
+Novos produtos: 4
+Novo numero de clientes: 32170
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:06:01.990242
+Numero de clientes antes: 32170
+Numero de produtos antes: 1389
+Novos clientes: 17
+Novos produtos: 3
+Novo numero de clientes: 32187
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:07:01.567659
+Numero de clientes antes: 32187
+Numero de produtos antes: 1392
+Novos clientes: 11
+Novos produtos: 4
+Novo numero de clientes: 32198
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:08:02.330246
+Numero de clientes antes: 32198
+Numero de produtos antes: 1396
+Novos clientes: 12
+Novos produtos: 3
+Novo numero de clientes: 32210
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:09:01.946833
+Numero de clientes antes: 32210
+Numero de produtos antes: 1399
+Novos clientes: 9
+Novos produtos: 1
+Novo numero de clientes: 32219
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:10:01.577293
+Numero de clientes antes: 32219
+Numero de produtos antes: 1400
+Novos clientes: 8
+Novos produtos: 3
+Novo numero de clientes: 32227
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:11:02.176450
+Numero de clientes antes: 32227
+Numero de produtos antes: 1403
+Novos clientes: 12
+Novos produtos: 3
+Novo numero de clientes: 32239
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:12:01.853013
+Numero de clientes antes: 32239
+Numero de produtos antes: 1406
+Novos clientes: 4
+Novos produtos: 4
+Novo numero de clientes: 32243
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:13:02.488848
+Numero de clientes antes: 32243
+Numero de produtos antes: 1410
+Novos clientes: 7
+Novos produtos: 1
+Novo numero de clientes: 32250
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:14:02.091679
+Numero de clientes antes: 32250
+Numero de produtos antes: 1411
+Novos clientes: 4
+Novos produtos: 2
+Novo numero de clientes: 32254
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:15:01.813233
+Numero de clientes antes: 32254
+Numero de produtos antes: 1413
+Novos clientes: 10
+Novos produtos: 3
+Novo numero de clientes: 32264
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:16:02.405635
+Numero de clientes antes: 32264
+Numero de produtos antes: 1416
+Novos clientes: 20
+Novos produtos: 2
+Novo numero de clientes: 32284
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:17:02.010815
+Numero de clientes antes: 32284
+Numero de produtos antes: 1418
+Novos clientes: 12
+Novos produtos: 1
+Novo numero de clientes: 32296
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:18:01.577832
+Numero de clientes antes: 32296
+Numero de produtos antes: 1419
+Novos clientes: 7
+Novos produtos: 2
+Novo numero de clientes: 32303
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:19:02.248128
+Numero de clientes antes: 32303
+Numero de produtos antes: 1421
+Novos clientes: 20
+Novos produtos: 1
+Novo numero de clientes: 32323
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:20:01.931188
+Numero de clientes antes: 32323
+Numero de produtos antes: 1422
+Novos clientes: 12
+Novos produtos: 1
+Novo numero de clientes: 32335
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:21:01.571285
+Numero de clientes antes: 32335
+Numero de produtos antes: 1423
+Novos clientes: 4
+Novos produtos: 2
+Novo numero de clientes: 32339
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:22:02.243090
+Numero de clientes antes: 32339
+Numero de produtos antes: 1425
+Novos clientes: 2
+Novos produtos: 1
+Novo numero de clientes: 32341
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:23:01.942142
+Numero de clientes antes: 32341
+Numero de produtos antes: 1426
+Novos clientes: 19
+Novos produtos: 4
+Novo numero de clientes: 32360
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:24:01.522097
+Numero de clientes antes: 32360
+Numero de produtos antes: 1430
+Novos clientes: 18
+Novos produtos: 4
+Novo numero de clientes: 32378
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:25:02.172141
+Numero de clientes antes: 32378
+Numero de produtos antes: 1434
+Novos clientes: 15
+Novos produtos: 4
+Novo numero de clientes: 32393
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:26:01.874287
+Numero de clientes antes: 32393
+Numero de produtos antes: 1438
+Novos clientes: 4
+Novos produtos: 4
+Novo numero de clientes: 32397
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:27:02.621553
+Numero de clientes antes: 32397
+Numero de produtos antes: 1442
+Novos clientes: 3
+Novos produtos: 4
+Novo numero de clientes: 32400
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:28:02.273292
+Numero de clientes antes: 32400
+Numero de produtos antes: 1446
+Novos clientes: 12
+Novos produtos: 2
+Novo numero de clientes: 32412
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:29:01.865499
+Numero de clientes antes: 32412
+Numero de produtos antes: 1448
+Novos clientes: 9
+Novos produtos: 3
+Novo numero de clientes: 32421
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:30:02.619921
+Numero de clientes antes: 32421
+Numero de produtos antes: 1451
+Novos clientes: 6
+Novos produtos: 4
+Novo numero de clientes: 32427
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:31:02.285869
+Numero de clientes antes: 32427
+Numero de produtos antes: 1455
+Novos clientes: 13
+Novos produtos: 2
+Novo numero de clientes: 32440
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:32:02.035995
+Numero de clientes antes: 32440
+Numero de produtos antes: 1457
+Novos clientes: 7
+Novos produtos: 3
+Novo numero de clientes: 32447
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:33:01.824322
+Numero de clientes antes: 32447
+Numero de produtos antes: 1460
+Novos clientes: 14
+Novos produtos: 4
+Novo numero de clientes: 32461
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:34:02.476813
+Numero de clientes antes: 32461
+Numero de produtos antes: 1464
+Novos clientes: 10
+Novos produtos: 3
+Novo numero de clientes: 32471
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:35:02.051144
+Numero de clientes antes: 32471
+Numero de produtos antes: 1467
+Novos clientes: 18
+Novos produtos: 3
+Novo numero de clientes: 32489
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:36:01.624399
+Numero de clientes antes: 32489
+Numero de produtos antes: 1470
+Novos clientes: 9
+Novos produtos: 2
+Novo numero de clientes: 32498
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:37:02.284955
+Numero de clientes antes: 32498
+Numero de produtos antes: 1472
+Novos clientes: 15
+Novos produtos: 4
+Novo numero de clientes: 32513
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:38:01.998312
+Numero de clientes antes: 32513
+Numero de produtos antes: 1476
+Novos clientes: 5
+Novos produtos: 3
+Novo numero de clientes: 32518
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:39:01.709585
+Numero de clientes antes: 32518
+Numero de produtos antes: 1479
+Novos clientes: 10
+Novos produtos: 2
+Novo numero de clientes: 32528
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:40:02.400912
+Numero de clientes antes: 32528
+Numero de produtos antes: 1481
+Novos clientes: 12
+Novos produtos: 1
+Novo numero de clientes: 32540
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:41:02.113293
+Numero de clientes antes: 32540
+Numero de produtos antes: 1482
+Novos clientes: 17
+Novos produtos: 3
+Novo numero de clientes: 32557
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:42:01.922885
+Numero de clientes antes: 32557
+Numero de produtos antes: 1485
+Novos clientes: 14
+Novos produtos: 2
+Novo numero de clientes: 32571
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:43:01.631279
+Numero de clientes antes: 32571
+Numero de produtos antes: 1487
+Novos clientes: 17
+Novos produtos: 3
+Novo numero de clientes: 32588
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:44:02.387883
+Numero de clientes antes: 32588
+Numero de produtos antes: 1490
+Novos clientes: 17
+Novos produtos: 4
+Novo numero de clientes: 32605
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:45:02.038874
+Numero de clientes antes: 32605
+Numero de produtos antes: 1494
+Novos clientes: 13
+Novos produtos: 2
+Novo numero de clientes: 32618
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:46:01.715277
+Numero de clientes antes: 32618
+Numero de produtos antes: 1496
+Novos clientes: 5
+Novos produtos: 3
+Novo numero de clientes: 32623
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:47:02.350137
+Numero de clientes antes: 32623
+Numero de produtos antes: 1499
+Novos clientes: 15
+Novos produtos: 2
+Novo numero de clientes: 32638
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:48:02.017509
+Numero de clientes antes: 32638
+Numero de produtos antes: 1501
+Novos clientes: 12
+Novos produtos: 3
+Novo numero de clientes: 32650
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:49:01.696631
+Numero de clientes antes: 32650
+Numero de produtos antes: 1504
+Novos clientes: 20
+Novos produtos: 2
+Novo numero de clientes: 32670
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:50:02.372989
+Numero de clientes antes: 32670
+Numero de produtos antes: 1506
+Novos clientes: 1
+Novos produtos: 3
+Novo numero de clientes: 32671
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:51:02.152530
+Numero de clientes antes: 32671
+Numero de produtos antes: 1509
+Novos clientes: 10
+Novos produtos: 3
+Novo numero de clientes: 32681
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:52:01.724445
+Numero de clientes antes: 32681
+Numero de produtos antes: 1512
+Novos clientes: 8
+Novos produtos: 1
+Novo numero de clientes: 32689
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:53:02.316676
+Numero de clientes antes: 32689
+Numero de produtos antes: 1513
+Novos clientes: 4
+Novos produtos: 4
+Novo numero de clientes: 32693
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:54:01.960797
+Numero de clientes antes: 32693
+Numero de produtos antes: 1517
+Novos clientes: 12
+Novos produtos: 2
+Novo numero de clientes: 32705
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:55:01.625177
+Numero de clientes antes: 32705
+Numero de produtos antes: 1519
+Novos clientes: 4
+Novos produtos: 4
+Novo numero de clientes: 32709
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:56:02.249822
+Numero de clientes antes: 32709
+Numero de produtos antes: 1523
+Novos clientes: 5
+Novos produtos: 3
+Novo numero de clientes: 32714
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:57:01.962802
+Numero de clientes antes: 32714
+Numero de produtos antes: 1526
+Novos clientes: 7
+Novos produtos: 4
+Novo numero de clientes: 32721
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:58:01.632885
+Numero de clientes antes: 32721
+Numero de produtos antes: 1530
+Novos clientes: 1
+Novos produtos: 4
+Novo numero de clientes: 32722
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 15:59:02.252886
+Numero de clientes antes: 32722
+Numero de produtos antes: 1534
+Novos clientes: 14
+Novos produtos: 2
+Novo numero de clientes: 32736
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 16:00:01.872747
+Numero de clientes antes: 32736
+Numero de produtos antes: 1536
+Novos clientes: 7
+Novos produtos: 1
+Novo numero de clientes: 32743
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 16:01:02.479884
+Numero de clientes antes: 32743
+Numero de produtos antes: 1537
+Novos clientes: 14
+Novos produtos: 2
+Novo numero de clientes: 32757
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 16:02:02.093105
+Numero de clientes antes: 32757
+Numero de produtos antes: 1539
+Novos clientes: 12
+Novos produtos: 4
+Novo numero de clientes: 32769
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 16:03:01.660857
+Numero de clientes antes: 32769
+Numero de produtos antes: 1543
+Novos clientes: 19
+Novos produtos: 1
+Novo numero de clientes: 32788
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 16:04:02.248939
+Numero de clientes antes: 32788
+Numero de produtos antes: 1544
+Novos clientes: 9
+Novos produtos: 3
+Novo numero de clientes: 32797
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 16:05:01.921404
+Numero de clientes antes: 32797
+Numero de produtos antes: 1547
+Novos clientes: 3
+Novos produtos: 4
+Novo numero de clientes: 32800
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 16:06:02.521691
+Numero de clientes antes: 32800
+Numero de produtos antes: 1551
+Novos clientes: 13
+Novos produtos: 1
+Novo numero de clientes: 32813
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 16:07:02.096673
+Numero de clientes antes: 32813
+Numero de produtos antes: 1552
+Novos clientes: 10
+Novos produtos: 3
+Novo numero de clientes: 32823
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 16:08:01.711747
+Numero de clientes antes: 32823
+Numero de produtos antes: 1555
+Novos clientes: 2
+Novos produtos: 3
+Novo numero de clientes: 32825
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 16:09:02.343252
+Numero de clientes antes: 32825
+Numero de produtos antes: 1558
+Novos clientes: 16
+Novos produtos: 1
+Novo numero de clientes: 32841
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 16:10:01.943100
+Numero de clientes antes: 32841
+Numero de produtos antes: 1559
+Novos clientes: 13
+Novos produtos: 2
+Novo numero de clientes: 32854
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 16:11:01.773823
+Numero de clientes antes: 32854
+Numero de produtos antes: 1561
+Novos clientes: 20
+Novos produtos: 4
+Novo numero de clientes: 32874
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 16:12:02.419122
+Numero de clientes antes: 32874
+Numero de produtos antes: 1565
+Novos clientes: 6
+Novos produtos: 1
+Novo numero de clientes: 32880
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 16:13:02.118950
+Numero de clientes antes: 32880
+Numero de produtos antes: 1566
+Novos clientes: 19
+Novos produtos: 3
+Novo numero de clientes: 32899
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 16:14:01.898193
+Numero de clientes antes: 32899
+Numero de produtos antes: 1569
+Novos clientes: 8
+Novos produtos: 3
+Novo numero de clientes: 32907
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 16:15:02.766695
+Numero de clientes antes: 32907
+Numero de produtos antes: 1572
+Novos clientes: 4
+Novos produtos: 2
+Novo numero de clientes: 32911
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 16:16:02.547309
+Numero de clientes antes: 32911
+Numero de produtos antes: 1574
+Novos clientes: 8
+Novos produtos: 3
+Novo numero de clientes: 32919
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 16:17:02.256863
+Numero de clientes antes: 32919
+Numero de produtos antes: 1577
+Novos clientes: 8
+Novos produtos: 1
+Novo numero de clientes: 32927
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 16:18:02.019884
+Numero de clientes antes: 32927
+Numero de produtos antes: 1578
+Novos clientes: 5
+Novos produtos: 3
+Novo numero de clientes: 32932
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 16:19:01.802172
+Numero de clientes antes: 32932
+Numero de produtos antes: 1581
+Novos clientes: 13
+Novos produtos: 4
+Novo numero de clientes: 32945
+/home/sergio/dev/suslake/venv/bin/python3
+Python 3.12.3
+Dados fictícios gerados e salvos as 2024-07-20 16:20:02.456346
+Numero de clientes antes: 32945
+Numero de produtos antes: 1585
+Novos clientes: 15
+Novos produtos: 2
+Novo numero de clientes: 32960
